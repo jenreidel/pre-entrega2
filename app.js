@@ -64,7 +64,3 @@ function actualizarHTML() {
     }
     elementoCredito.innerText = credito;
 }
-
-function regar() {
-
-}
